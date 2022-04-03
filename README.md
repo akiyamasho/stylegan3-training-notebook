@@ -1,8 +1,8 @@
-# stylegan3-colab-training
+# StyleGAN3 Training Notebooks
 
-This repo contains a colab notebook you can copy to your Google Drive to train [NVIDIA's StyleGAN3](https://github.com/NVlabs/stylegan3) using your own custom dataset.
+This repo contains a colab and paperspace notebooks you can copy or use inside VSCode with Jupyter Remote to train [NVIDIA's StyleGAN3](https://github.com/NVlabs/stylegan3) using your own custom dataset.
 
-Usage instructions are included inline in the `stylegan3.ipynb` notebook.
+Usage instructions are included inline in each notebook.
 
 ==========
 
